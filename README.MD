@@ -34,7 +34,7 @@ Prerequisites
 
 Before running the scripts, ensure you have the requests library installed:
 
-bash
+
 
 pip install requests
 
@@ -43,13 +43,13 @@ Usage
     Clone this repository to your local machine.
     Open a terminal and navigate to the repository folder.
 
-bash
+
 
 cd path/to/repository
 
     Run the Python script to execute the test scenarios:
 
-bash
+
 
 python update_booking_test.py
 
