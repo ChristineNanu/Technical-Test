@@ -1,6 +1,7 @@
 Restful Booker API - Update Booking
 
 Overview
+
 This repository provides scripts to automate testing for the "Update Booking" endpoint in the Restful Booker API. These scripts cover various scenarios to ensure comprehensive testing.
 API Endpoint
 
@@ -8,7 +9,8 @@ API Endpoint
     Endpoint: https://restful-booker.herokuapp.com/booking/:id
     Example: https://restful-booker.herokuapp.com/booking/1
 
-Test Scenarios
+Test Scenarios 
+
 The scripts focus on updating booking information, including scenarios with both valid and invalid data conditions.
 Test Data
 
